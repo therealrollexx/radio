@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "9622cd46-0601-11e8-ae97-52543be04c81",
+    "name": "Europa Plus",
+    "streamUrl": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+    "faviconUrl": "http://liveam.tv/img/2494.jpg",
+    "tags": [
+      "dance",
+      "house",
+      "pop"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "961c96ef-0601-11e8-ae97-52543be04c81",
+    "name": "ROCK FM",
+    "streamUrl": "http://nashe1.hostingradio.ru/rock-128.mp3",
+    "faviconUrl": "https://lh3.googleusercontent.com/D3taObR7tfyhwDFY40VS8DIVri7iif5RuzI9C-mXxRwF41vGZ_dO_n6MWM57P-mZczFC=w300",
+    "tags": [
+      "classic rock",
+      "pop rock",
+      "rock"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "63688c44-e90b-11e8-a471-52543be04c81",
+    "name": "РАДИО ВАНЯ",
+    "streamUrl": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
+    "faviconUrl": null,
+    "tags": [
+      "pop"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 64
+  },
+  {
+    "id": "165eab56-4a14-11e9-a4d7-52543be04c81",
+    "name": "DFM Дискач 90-х",
+    "streamUrl": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
+    "faviconUrl": null,
+    "tags": [
+      "90-е",
+      "eurodance",
+      "nostalgia"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 96
+  },
+  {
+    "id": "563f5559-105c-11e9-a80b-52543be04c81",
+    "name": "DFM RUSSIAN DANCE",
+    "streamUrl": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
+    "faviconUrl": "https://dfm.ru/uploads/favicon.ico",
+    "tags": [
+      "dance"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 96
+  },
+  {
+    "id": "964da270-0601-11e8-ae97-52543be04c81",
+    "name": "Радио Русские Песни",
+    "streamUrl": "http://listen.rusongs.ru/ru-mp3-128",
+    "faviconUrl": null,
+    "tags": [
+      "russian pop"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "960b9e98-0601-11e8-ae97-52543be04c81",
+    "name": "Вести ФМ (Vesti FM)",
+    "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+    "faviconUrl": null,
+    "tags": [
+      "news"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 192
+  },
+  {
+    "id": "f796d445-4314-4eb6-a09d-bcac5d474661",
+    "name": "Дискотека СССР",
+    "streamUrl": "http://pub0302.101.ru:8000/stream/pro/aac/64/144?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjUuMTguMjQ4Ljk4IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODIuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzgyLjAiLCJ1aWRfY2hhbm5lbCI6IjE0NCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MDU5NjQ1MTZ9.Ln1wEJ8cHHzK_Ea6Zr8J8acdny0R9ShZ_KUKVf6TmQA",
+    "faviconUrl": null,
+    "tags": [
+      "80s",
+      "90s",
+      "russian"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 64
+  },
+  {
+    "id": "0a364b59-56b6-11e9-aa33-52543be04c81",
+    "name": "Дорожное радио",
+    "streamUrl": "http://dorognoe.hostingradio.ru:8000/radio",
+    "faviconUrl": "https://dorognoe.ru/assets/default/i/fav_114x114.png",
+    "tags": [
+      "dorojnoe"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 320
+  },
+  {
+    "id": "964fade0-0601-11e8-ae97-52543be04c81",
+    "name": "Ретро FM",
+    "streamUrl": "http://retroserver.streamr.ru:8043/retro256.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "classic hits",
+      "moscow",
+      "music",
+      "pop",
+      "retro",
+      "russia",
+      "russian pop"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 256
+  },
+  {
+    "id": "960de706-0601-11e8-ae97-52543be04c81",
+    "name": "Шансон Радио",
+    "streamUrl": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "chanson"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "961e5274-0601-11e8-ae97-52543be04c81",
+    "name": "дорожное радио (Dorognoe Radio)",
+    "streamUrl": "http://dorognoe.hostingradio.ru:8000/dorognoe",
+    "faviconUrl": "https://dorognoe.ru/assets/default/i/fav_114x114.png",
+    "tags": [
+      "moscow"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 64
+  },
+  {
+    "id": "1daf83f3-6b68-11ea-b1cf-52543be04c81",
+    "name": "Авторадио - FM 90.3 - Москва",
+    "streamUrl": "http://ic4.101.ru:8000/v3_1",
+    "faviconUrl": null,
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 256
+  },
+  {
+    "id": "e3d8f94f-156e-11e9-a80b-52543be04c81",
+    "name": "Вести FM",
+    "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/vestifm",
+    "faviconUrl": null,
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 320
+  },
+  {
+    "id": "e23a948f-b571-49be-85a2-4f6df822fc00",
+    "name": "Европа плюс",
+    "streamUrl": "http://ep128server.streamr.ru:8030/ep128",
+    "faviconUrl": "https://radiomap.eu/2015/images/icon-120.png",
+    "tags": [
+      "поп"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "1fbda80a-41a7-11ea-a95e-52543be04c81",
+    "name": "Comedy Radio new link",
+    "streamUrl": "http://ic6.101.ru:8000/stream/air/aac/64/202",
+    "faviconUrl": null,
+    "tags": [
+      "comedy",
+      "humor",
+      "pop",
+      "sketches"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "b3c3ac25-ea2c-4865-8444-7ba9a71960f8",
+    "name": "Radio Record - Russian Mix",
+    "streamUrl": "https://radiorecord.hostingradio.ru/rus96.aacp",
+    "faviconUrl": null,
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "962a1abd-0601-11e8-ae97-52543be04c81",
+    "name": "Радио «Комсомольская Правда» | КП Россия",
+    "streamUrl": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "moscow",
+      "music",
+      "news",
+      "russia",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "960b1967-0601-11e8-ae97-52543be04c81",
+    "name": "Nashe Radio",
+    "streamUrl": "http://nashe1.hostingradio.ru/nashe-128.mp3",
+    "faviconUrl": "https://www.nashe.ru/favicons/apple-touch-icon.png",
+    "tags": [
+      "live air"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "9ecb2533-eee0-11e9-a96c-52543be04c81",
+    "name": "Русский Рок - Russian Rock",
+    "streamUrl": "http://rock.volna.top/RusRock",
+    "faviconUrl": null,
+    "tags": [
+      "amg",
+      "rock",
+      "russian"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "9614aa8d-0601-11e8-ae97-52543be04c81",
+    "name": "Радио Маяк (Radio Mayak)",
+    "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
+    "faviconUrl": null,
+    "tags": [
+      "music",
+      "news",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 192
+  },
+  {
+    "id": "960faade-0601-11e8-ae97-52543be04c81",
+    "name": "Ретро FM 70e",
+    "streamUrl": "http://retro70.hostingradio.ru:8025/retro70-128.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "70s"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "9643f966-0601-11e8-ae97-52543be04c81",
+    "name": "Радио Шансон - Radio Shanson",
+    "streamUrl": "http://chanson.hostingradio.ru:8041/chanson256.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "pop"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 256
+  },
+  {
+    "id": "961662de-0601-11e8-ae97-52543be04c81",
+    "name": "Ретро ФМ",
+    "streamUrl": "http://retroserver.streamr.ru:8043/retro128",
+    "faviconUrl": null,
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "033fe547-b71c-4ea0-8274-e6522444629c",
+    "name": "Русское Радио",
+    "streamUrl": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "faviconUrl": "https://cdn.onlineradiobox.com/img/l/8/248.v10.png",
+    "tags": [
+      "misc"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "961799c0-0601-11e8-ae97-52543be04c81",
+    "name": "Спокойное радио",
+    "streamUrl": "https://listen9.myradio24.com/6262",
+    "faviconUrl": "https://i.1.creatium.io/5f/9c/2c/4e16165627237138cbc3273f76782d56f9/196x196/favicon.png",
+    "tags": [
+      "ambient",
+      "chillout",
+      "easy listening",
+      "jazz",
+      "lounge",
+      "moscow",
+      "relax",
+      "sounds of nature"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "996ea893-621d-11e9-a622-52543be04c81",
+    "name": "Наше Радио",
+    "streamUrl": "http://nashe.streamr.ru/nashe-128.mp3",
+    "faviconUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/%D0%9D%D0%90%D0%A8%D0%95_%D0%A0%D0%90%D0%94%D0%98%D0%9E.jpg",
+    "tags": [
+      "рок",
+      "этно"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "e4a7e1e4-263c-11e9-a80b-52543be04c81",
+    "name": "Радио 7 на семи холмах",
+    "streamUrl": "http://radio7server.streamr.ru:8040/radio7256.mp3",
+    "faviconUrl": null,
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 256
+  },
+  {
+    "id": "960b7dcb-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Ultra",
+    "streamUrl": "http://nashe1.hostingradio.ru/ultra-192.mp3",
+    "faviconUrl": "https://radioultra.ru/favicons/apple-touch-icon.png",
+    "tags": [
+      "alternative",
+      "alternative rock",
+      "rock"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "96266006-0601-11e8-ae97-52543be04c81",
+    "name": "Радио Книга",
+    "streamUrl": "http://bookradio.hostingradio.ru:8069/fm",
+    "faviconUrl": "https://radiokniga.com/rk.ico",
+    "tags": [
+      "audiobooks",
+      "literature",
+      "talk",
+      "аудиокниги",
+      "литература"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "9e4f0920-a3bd-4884-9e98-fbd0051215ed",
+    "name": "Radio record - Main Channel",
+    "streamUrl": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+    "faviconUrl": "https://www.radiorecord.ru/icons/apple-touch-icon.png",
+    "tags": [
+      "music",
+      "news"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "9618a7b8-0601-11e8-ae97-52543be04c81",
+    "name": "DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)",
+    "streamUrl": "http://finland.discovertrance.com:8113//",
+    "faviconUrl": null,
+    "tags": [
+      "dance",
+      "trance"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 320
+  },
+  {
+    "id": "7f3e194e-9ff6-4530-8b71-216b892aad39",
+    "name": "101,ru Russian Dance",
+    "streamUrl": "https://pub0302.101.ru:8443/stream/trust/mp3/128/17?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjQ5LjM3LjE1MS42IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODguMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzg4LjAiLCJ1aWRfY2hhbm5lbCI6IjE3IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTYxODUwMTYyM30.vsWQ1s12RL1P3yuD4Eb6E2Og6YaLbXceO-cfhhhwl5s",
+    "faviconUrl": null,
+    "tags": [
+      "#101",
+      "#music",
+      "#russiandance",
+      "101.ru"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "30c38245-b3f4-4481-abe4-79b8f07a5a7c",
+    "name": "Шансон без цензуры",
+    "streamUrl": "http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3",
+    "faviconUrl": "https://www.eff.org/files/Button_Russian_white.png",
+    "tags": [
+      "russia",
+      "russian",
+      "shanson",
+      "без",
+      "русский",
+      "цензуры",
+      "шансон"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 256
+  },
+  {
+    "id": "0854bfd2-2c68-11e9-a35e-52543be04c81",
+    "name": "Радио Maximum",
+    "streamUrl": "https://maximum.hostingradio.ru/maximum128.mp3",
+    "faviconUrl": "http://maximum.ru/favicon.ico",
+    "tags": [
+      "rock"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "b6f672e3-eedf-11e9-a96c-52543be04c81",
+    "name": "РЕТРО ХИТ - RETRO HIT",
+    "streamUrl": "http://retro.volna.top/Retro",
+    "faviconUrl": null,
+    "tags": [
+      "adult",
+      "amg",
+      "gold",
+      "pop",
+      "retro",
+      "russian"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "b400c533-ada0-425c-b327-75b47a5aebb7",
+    "name": "Beta Anon.FM",
+    "streamUrl": "https://radio.anonymous.delivery/music.mp3",
+    "faviconUrl": "https://anon.fm/imgs/logos/5.png",
+    "tags": [
+      "anonymous",
+      "various"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "6ffa5e26-6d29-4f77-82ba-41a5fd24400b",
+    "name": "Радио Рекорд Russian Mix",
+    "streamUrl": "http://radiorecord.hostingradio.ru/rus96.aacp",
+    "faviconUrl": "http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "d847db37-5f89-48a5-be32-b10e5406f0e6",
+    "name": "Mixadance FM",
+    "streamUrl": "https://stream.mixadance.fm/mixadance",
+    "faviconUrl": "http://www.mixadance.fm/apple-touch-icon.png",
+    "tags": [
+      "dance",
+      "electro",
+      "electronic",
+      "house",
+      "music"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 192
+  },
+  {
+    "id": "96163b46-0601-11e8-ae97-52543be04c81",
+    "name": "комерсант (Kommersant FM) 93.6 Moscow",
+    "streamUrl": "http://kommersant77.hostingradio.ru:8016/kommersant64.mp3",
+    "faviconUrl": "https://im.kommersant.ru/contentflex/images/favicons2020/apple-touch-icon-120.png",
+    "tags": [
+      "news"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 64
+  },
+  {
+    "id": "961a35ee-0601-11e8-ae97-52543be04c81",
+    "name": "Говорит Москва",
+    "streamUrl": "http://media.govoritmoskva.ru:8880/ru64.mp3",
+    "faviconUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/2/26/Govoritmsk_radio.jpeg/200px-Govoritmsk_radio.jpeg",
+    "tags": [
+      "dorenko",
+      "moscow",
+      "news",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "29a68b7f-f573-4b19-b3ba-cdbb0979e348",
+    "name": "Вести FM (AAC)",
+    "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
+    "faviconUrl": null,
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 32
+  },
+  {
+    "id": "2f1d6057-52bb-4a33-9b4c-be44a800d832",
+    "name": "Соловьёв FM",
+    "streamUrl": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
+    "faviconUrl": "http://telegram.org/img/apple-touch-icon.png",
+    "tags": [
+      "news",
+      "politics",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "3a386176-7b44-46eb-9461-75fc96121c99",
+    "name": "Комсомольская правда",
+    "streamUrl": "https://kpradio.hostingradio.ru:8000/64",
+    "faviconUrl": "https://radiokp.ru/modules/custom/dna_kpradio/modules/kp_favicon/img/favicon-194x194.png?v=1.1",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "9606d076-0601-11e8-ae97-52543be04c81",
+    "name": "Радио России (Radio Russia)",
+    "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps",
+    "faviconUrl": null,
+    "tags": [
+      "music",
+      "news",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "964bdb24-0601-11e8-ae97-52543be04c81",
+    "name": "Модель для сборки",
+    "streamUrl": "http://mds-station.com:8000/mds",
+    "faviconUrl": "http://mds-station.com/apple-icon-120x120.png",
+    "tags": [
+      "аудиокниги",
+      "рассказы",
+      "фантастика"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "780b212d-189c-45e2-828d-76cc6164ef5f",
+    "name": "Юмор FM",
+    "streamUrl": "http://pub0101.101.ru:8000/stream/air/aac/64/102",
+    "faviconUrl": "https://www.veseloeradio.ru/design/images/assets/img/icons/touch-icon-ipad.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "4ba75473-8d53-4a71-b797-9a73798265c4",
+    "name": "Европа Плюс",
+    "streamUrl": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+    "faviconUrl": "http://liveam.tv/img/2494.jpg",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "964207bc-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Caprice - Eurodance",
+    "streamUrl": "http://79.120.39.202:9003/",
+    "faviconUrl": "http://www.radcap.ru/apple-touch-icon.png",
+    "tags": [
+      "eurodance"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 320
+  },
+  {
+    "id": "2678a502-9a27-4774-a549-e00091878051",
+    "name": "Спутник",
+    "streamUrl": "https://icecast-rian.cdnvideo.ru/voicerus",
+    "faviconUrl": null,
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "518d02e0-9301-4358-bf25-4ed57372fd2d",
+    "name": "Instrumental Jazz",
+    "streamUrl": "https://jfm1.hostingradio.ru:14536/ijstream.mp3",
+    "faviconUrl": "https://radiojazzfm.ru/favicons/apple-touch-icon.png",
+    "tags": [
+      "instrumental",
+      "jazz"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "961da649-0601-11e8-ae97-52543be04c81",
+    "name": "вести фм (Vesti FM)",
+    "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps",
+    "faviconUrl": null,
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 64
+  },
+  {
+    "id": "39094c88-fc5d-4628-b5e7-5884b58ba8a5",
+    "name": "Звезда",
+    "streamUrl": "https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128",
+    "faviconUrl": null,
+    "tags": [
+      "news",
+      "russian",
+      "talk",
+      "новости",
+      "разговор",
+      "разговорное",
+      "россия",
+      "русский"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "e3b0102d-0db6-4655-92d6-e37652ddedca",
+    "name": "Радио дача",
+    "streamUrl": "http://listen13.vdfm.ru:8000/dacha",
+    "faviconUrl": "null",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "962d550e-0601-11e8-ae97-52543be04c81",
+    "name": "Радио Родных Дорог",
+    "streamUrl": "http://stream1.radiord.ru:8000/live96.aac",
+    "faviconUrl": null,
+    "tags": [
+      "cheboksary",
+      "federal radiochanel",
+      "music",
+      "news",
+      "road",
+      "russia",
+      "sport"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 128
+  },
+  {
+    "id": "18570040-960a-4f41-96dc-fe47d5878dd1",
+    "name": "Соловьёв LIVE",
+    "streamUrl": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
+    "faviconUrl": null,
+    "tags": [
+      "politics",
+      "world news"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "71d1622f-f9a1-11e8-a97a-52543be04c81",
+    "name": "HIT FM",
+    "streamUrl": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+    "faviconUrl": "http://hitfm.ru/apple-icon.png?b1d3d31b1e6c8f8f",
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "90031247-7578-4cee-9c15-0265df3ab21d",
+    "name": "Вести FM",
+    "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/vestifm",
+    "faviconUrl": "https://cdn-st1.smotrim.ru/smotrimru/i/favicon/apple-touch-icon-120x120.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 320
+  },
+  {
+    "id": "442f0ac5-f8aa-4f3d-a180-3878572ba5cc",
+    "name": "Русское Радио: Русский Рок",
+    "streamUrl": "https://icecast01.hostingradio.ru:80/russkijrok96.aacp",
+    "faviconUrl": null,
+    "tags": [
+      "russian rock",
+      "русский рок"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 96
+  },
+  {
+    "id": "860f522f-1ef5-11e9-a80b-52543be04c81",
+    "name": "Новое Радио 91.1 (СПб)",
+    "streamUrl": "http://emgspb.hostingradio.ru/novoespb128.mp3",
+    "faviconUrl": "https://newradio.ru/favicon.ico",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "2eb3a74d-0a71-11ea-a87e-52543be04c81",
+    "name": "Ностальгия - Дорожное радио",
+    "streamUrl": "http://stream1.hostingradio.ru:8010/19_mp3_128",
+    "faviconUrl": "https://top-radio.ru/assets/image/radio/180/drnostalgy.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "963f5372-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Caprice - Retrowave",
+    "streamUrl": "http://79.120.39.202:9125/",
+    "faviconUrl": "http://radcap.ru/apple-touch-icon.png",
+    "tags": [
+      "80s",
+      "electronic",
+      "retrowave",
+      "synthwave"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 320
+  },
+  {
+    "id": "504e3cdf-dc53-11e9-a8ba-52543be04c81",
+    "name": "HIP HOP RADIO",
+    "streamUrl": "https://tntradio.hostingradio.ru:8027/hhr128.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "hiphop"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 160
+  },
+  {
+    "id": "c4175f89-69da-11ea-b1cf-52543be04c81",
+    "name": "Бизнес FM",
+    "streamUrl": "https://bfm.hostingradio.ru:9075/fm",
+    "faviconUrl": "https://www.bfm.ru/apple-touch-icon.png",
+    "tags": [
+      "business",
+      "business news",
+      "business programs"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 256
+  },
+  {
+    "id": "581283d7-5030-4776-8f5c-6c71885ea90e",
+    "name": "Юмор ФМ",
+    "streamUrl": "https://fed.fmplay.ru:8000/humor-32.aac",
+    "faviconUrl": null,
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "e813569f-9d44-42c2-9105-1345e1231037",
+    "name": "Эхо",
+    "streamUrl": "https://noasrv.caster.fm:10034/stream",
+    "faviconUrl": "https://echofm.online/_next/image?url=/_next/static/media/logo.69ea7ae1.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 96
+  },
+  {
+    "id": "ae048365-23cf-11e9-a80b-52543be04c81",
+    "name": "Питер FM - Санкт-Петербург 100.9 МГц",
+    "streamUrl": "http://icecast-piterfm.cdnvideo.ru/piterfm",
+    "faviconUrl": null,
+    "tags": [
+      "piter"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 160
+  },
+  {
+    "id": "96200832-0601-11e8-ae97-52543be04c81",
+    "name": "эльдорадио (Eldo Radio) 101.4 St. Petersburg",
+    "streamUrl": "http://emgspb.hostingradio.ru/eldoradio128.mp3",
+    "faviconUrl": "http://eldoradio.ru//favicon.ico",
+    "tags": [
+      "pop"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "3829af7a-b9a3-11e8-aaf2-52543be04c81",
+    "name": "Радиостация Маяк Москва 128kbs",
+    "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps",
+    "faviconUrl": null,
+    "tags": [
+      "music",
+      "news",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "c4453134-d33d-4e72-8ec9-7cae783cbe74",
+    "name": "Радио Sputnik (новости) / Radio Sputnik (news)",
+    "streamUrl": "https://icecast-rian.cdnvideo.ru/voicerus",
+    "faviconUrl": "https://cdnn21.img.ria.ru/i/favicons/radiosputnik/apple-touch-icon.png",
+    "tags": [
+      "news"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "77623f34-e920-4aad-8982-d3261729e69c",
+    "name": "Радио Рекорд Remix",
+    "streamUrl": "http://radiorecord.hostingradio.ru/rmx96.aacp",
+    "faviconUrl": "http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "11b52be4-df72-11e9-a8ba-52543be04c81",
+    "name": "Enigmatic 3 - Magnetic Chillout",
+    "streamUrl": "http://radio.enigmatic.su:8050/radio",
+    "faviconUrl": null,
+    "tags": [
+      "ambient",
+      "atmospheric",
+      "chillout",
+      "easy listening",
+      "lounge",
+      "new age"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 64
+  },
+  {
+    "id": "f41af1e0-4b16-4760-ae85-232c3b1a8fce",
+    "name": "РАДИО ДЛЯ ВЗРОСЛЫХ",
+    "streamUrl": "http://listen6.myradio24.com:9000/alex542888",
+    "faviconUrl": null,
+    "tags": [
+      "classical"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 320
+  },
+  {
+    "id": "6b184db5-4f63-4ec1-9a59-8573675908a2",
+    "name": "Эхо online",
+    "streamUrl": "https://noasrv.caster.fm:10034/stream",
+    "faviconUrl": "https://play-lh.googleusercontent.com/n0Ow7jTeHolJS_2-a1D66oWPqtAHPPfJfx_yHjg35qrzjxwAroDPjTdMAAJDEnYCFA",
+    "tags": [
+      "talk & speech"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 96
+  },
+  {
+    "id": "8ec43579-6025-45e1-84ab-a2dd3c3abf44",
+    "name": "Маруся ФМ",
+    "streamUrl": "https://listen.vdfm.ru:8000/marusya",
+    "faviconUrl": null,
+    "tags": [
+      "танцевальная музыка"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "2d2f0f10-5ea9-400b-a61b-f2c6c8ed7963",
+    "name": "Радио Монте Карло",
+    "streamUrl": "https://montecarlo.hostingradio.ru/montecarlo128.mp3",
+    "faviconUrl": null,
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "56f5f685-8293-4778-baa5-aef23d340c37",
+    "name": "Радио Рекорд Russian Hits",
+    "streamUrl": "http://radiorecord.hostingradio.ru/russianhits96.aacp",
+    "faviconUrl": "http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "96474790-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Caprice - Thrash Metal",
+    "streamUrl": "http://79.120.77.11:9101/",
+    "faviconUrl": "https://radcap.ru/apple-touch-icon.png",
+    "tags": [
+      "thrash metal"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 320
+  },
+  {
+    "id": "676dafe0-13d8-4caf-aced-bfd5fbf78a1c",
+    "name": "101.ru - Deep House",
+    "streamUrl": "https://pub0202.101.ru:8000/stream/trust/mp3/128/173",
+    "faviconUrl": null,
+    "tags": [
+      "deep house",
+      "electronic"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "96292f3f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Caprice - Classical Piano",
+    "streamUrl": "http://79.120.39.202:9069/;",
+    "faviconUrl": "http://radcap.ru/apple-touch-icon.png",
+    "tags": [
+      "classical",
+      "piano"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 320
+  },
+  {
+    "id": "964fb174-0601-11e8-ae97-52543be04c81",
+    "name": "Ретро FM 90e",
+    "streamUrl": "http://retro90.hostingradio.ru:8025/retro90-128.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "90s"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "af23facc-2a9e-487e-9ff6-42ba600ce38d",
+    "name": "Русское Радио",
+    "streamUrl": "https://rusradio.hostingradio.ru/rusradio128.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "pop"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "962ed23b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Caprice - Death Metal",
+    "streamUrl": "http://79.120.77.11:9083/",
+    "faviconUrl": null,
+    "tags": [
+      "death metal"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 320
+  },
+  {
+    "id": "edefa7e1-4ec7-444a-973f-4aab360d5bda",
+    "name": "Радио \"Маяк\"",
+    "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm",
+    "faviconUrl": null,
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 320
+  },
+  {
+    "id": "a925ee80-9b35-424e-9989-345e8d0a2d63",
+    "name": "Радио Рекорд Нафталин FM",
+    "streamUrl": "http://radiorecord.hostingradio.ru/naft96.aacp",
+    "faviconUrl": "http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "18a7a98c-1eec-40fa-a854-8299caf92e08",
+    "name": "Radio Record Hardstyle",
+    "streamUrl": "https://radiorecord.hostingradio.ru/teo96.aacp",
+    "faviconUrl": null,
+    "tags": [
+      "happy hardcore",
+      "hardstyle",
+      "jumpstyle"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "6ac5f45f-c6d8-46a5-a2e5-2646f7cffc9a",
+    "name": "101.ru - Relax FM",
+    "streamUrl": "https://ic4.101.ru:8000/stream/air/aac/64/200",
+    "faviconUrl": "https://relax-fm.ru/design/images/img_for_design/icons/touch-icon-ipad.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "507c5c7d-00df-4875-b83a-77b7a172687a",
+    "name": "Радио Патриот",
+    "streamUrl": "http://radio.mixto.ru:8001/patriot",
+    "faviconUrl": null,
+    "tags": [
+      "news",
+      "politics",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "22f9f10e-39af-494f-8d6d-2e8c4be718ef",
+    "name": "Радио Рекорд Супердискотека 90-х",
+    "streamUrl": "http://radiorecord.hostingradio.ru/sd9096.aacp",
+    "faviconUrl": "https://radiorecord.ru/icons/apple-touch-icon.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "95eff2f9-cb7a-4fe4-bb07-8c700719f8b6",
+    "name": "Relax FM Chillout",
+    "streamUrl": "https://pub0201.101.ru/stream/trust/mp3/128/24?",
+    "faviconUrl": "https://www.radiobells.com/stations/relaxfmchillout.webp",
+    "tags": [
+      "chill",
+      "chillout",
+      "chillout+lounge"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "a1c3d110-9136-4564-bd41-5ec1b97c41ac",
+    "name": "Radio Record Megamix",
+    "streamUrl": "https://radiorecord.hostingradio.ru/mix96.aacp",
+    "faviconUrl": null,
+    "tags": [
+      "electronic"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "e3645baf-5e7d-11e8-b715-52543be04c81",
+    "name": "Радио МЕГАПОЛИС",
+    "streamUrl": "http://online.radio-megapolis.ru:8000/megapolis",
+    "faviconUrl": null,
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 64
+  },
+  {
+    "id": "30b38ce8-295e-11ea-aa0c-52543be04c81",
+    "name": "russian radio golden gramophone",
+    "streamUrl": "http://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp",
+    "faviconUrl": null,
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 96
+  },
+  {
+    "id": "87008f72-3741-11ea-8dd7-52543be04c81",
+    "name": "DFM",
+    "streamUrl": "https://dfm.hostingradio.ru/dfm96.aacp?0.28225617725168517",
+    "faviconUrl": null,
+    "tags": [
+      "dfm"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "963400ea-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Jazz 89.1 - Classic JAZZ",
+    "streamUrl": "http://jfm1.hostingradio.ru:14536/ijstream.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "classic jazz"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "1e2884ee-03af-4a17-b679-fbc87fcecdd7",
+    "name": "Русское Радио Moscow",
+    "streamUrl": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "faviconUrl": null,
+    "tags": [
+      "pop music"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "af625f9a-63b0-4a6c-94a2-726660143ba5",
+    "name": "Radio Caprice - Latin / Afro-Cuban Jazz",
+    "streamUrl": "http://79.111.119.111:8002/latinjazz",
+    "faviconUrl": null,
+    "tags": [
+      "bolero",
+      "cuban music",
+      "jazz",
+      "latin music"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 48
+  },
+  {
+    "id": "a26ef8af-a6a4-4706-ac12-9c664949a136",
+    "name": "Романтический шансон",
+    "streamUrl": "http://chanson.hostingradio.ru:8041/chanson-romantic256.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "shanson"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 256
+  },
+  {
+    "id": "c96be971-6ea9-48c7-8825-8cc9faf40201",
+    "name": "Luxury Lounge - Late night, Deep sleep & Meditation",
+    "streamUrl": "http://188.40.109.122:8000/ices3",
+    "faviconUrl": "https://lounge.luxury/img/apple-touch-icon.png?1",
+    "tags": [
+      "chillout",
+      "lounge",
+      "meditation"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 192
+  },
+  {
+    "id": "963b429e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Caprice - Power Metal",
+    "streamUrl": "http://79.120.77.11:9099/",
+    "faviconUrl": null,
+    "tags": [
+      "metal",
+      "power metal"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 320
+  },
+  {
+    "id": "72e7215c-3e31-4cbe-943c-80570cbf7a4b",
+    "name": "Соловьёв life FM",
+    "streamUrl": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
+    "faviconUrl": "https://top-radio.ru/assets/image/radio/180/soloviev-fm.jpg",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "ea84fe8c-ec1b-41da-a552-842c00cdcc26",
+    "name": "Best Deep FM",
+    "streamUrl": "http://myradio24.org/5129_320",
+    "faviconUrl": null,
+    "tags": [
+      "electronic"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 320
+  },
+  {
+    "id": "7eadf977-e8de-11e9-a96c-52543be04c81",
+    "name": "Radio Caprice - Relaxation Music",
+    "streamUrl": "http://79.120.39.202:9109/",
+    "faviconUrl": null,
+    "tags": [
+      "meditation",
+      "relax",
+      "relaxation"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 320
+  },
+  {
+    "id": "960b6384-0601-11e8-ae97-52543be04c81",
+    "name": "Capital FM Moscow",
+    "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
+    "faviconUrl": null,
+    "tags": [
+      "hits",
+      "pop",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "33bbb927-88c4-45d5-8386-2eb0d82b9807",
+    "name": "Спутник 91.2 fm",
+    "streamUrl": "https://stream03.pcradio.ru/sputnik_ria_ru-med",
+    "faviconUrl": "http://pcradio.ru/images/stations/62ea3ebe43be0.jpg",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "9669f12c-97de-11e8-a767-52543be04c81",
+    "name": "Promodj Too Nu",
+    "streamUrl": "http://radio.promodj.com/toonu-192",
+    "faviconUrl": null,
+    "tags": [
+      "deep house",
+      "dj mixes",
+      "nu disco"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 192
+  },
+  {
+    "id": "6590ea1a-cd5a-4b98-a4fb-b15d9900b3b7",
+    "name": "Relax FM Latino",
+    "streamUrl": "https://pub0302.101.ru:8443/stream/trust/mp3/128/265",
+    "faviconUrl": null,
+    "tags": [
+      "latino"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "7aafcdc7-73b9-11e9-af37-52543be04c81",
+    "name": "Искатель",
+    "streamUrl": "http://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
+    "faviconUrl": "https://upload.wikimedia.org/wikipedia/ru/2/28/Iskatel-logo-colors.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "ec2adc92-6165-40ad-b605-d2b87863e826",
+    "name": "Радио Рекорд (основной канал)",
+    "streamUrl": "http://radiorecord.hostingradio.ru/rr_main96.aacp",
+    "faviconUrl": "http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "83f5c323-df6c-11e9-a8ba-52543be04c81",
+    "name": "RADIO CAPRICE - K-POP (KOREAN POP)",
+    "streamUrl": "http://79.111.119.111:8002/kpop",
+    "faviconUrl": "http://radcap.ru/apple-touch-icon.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 48
+  },
+  {
+    "id": "1f9c0e48-3406-418d-8687-74da7466b3a1",
+    "name": "Retro FM",
+    "streamUrl": "http://retroserver.streamr.ru:8043/retro256.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "retro"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 256
+  },
+  {
+    "id": "4cbccef4-1b8e-4d00-95cc-ce213d51f7d4",
+    "name": "Радио Рекорд Eurodance",
+    "streamUrl": "http://radiorecord.hostingradio.ru/eurodance96.aacp",
+    "faviconUrl": "http://radiorecord.ru/icons/apple-touch-icon.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 0
+  },
+  {
+    "id": "3a726fdc-259a-4c17-b76a-6f08196b2cb7",
+    "name": "101.ru Trance",
+    "streamUrl": "http://pub0101.101.ru:8000/stream/trust/mp3/128/19?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijc5LjI1My4xMy43MSIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoWDExOyBMaW51eCB4ODZfNjQ7IHJ2Ojk0LjApIEdlY2tvXC8yMDEwMDEwMSBGaXJlZm94XC85NC4wIiwidWlkX2NoYW5uZWwiOiIxOSIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MzY4ODYwMzJ9.0vfq2B5eNRtuEwE42pHUS9Sf_GosTmrQs0aHcPvbFj8",
+    "faviconUrl": null,
+    "tags": [
+      "trance"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  },
+  {
+    "id": "963b2e7a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Jazz 89.1 - JAZZ Vocals",
+    "streamUrl": "http://jfm1.hostingradio.ru:14536/jvstream.mp3",
+    "faviconUrl": "https://radiojazzfm.ru/favicons/favicon-32x32.png",
+    "tags": [
+      "jazz vocal"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "8108c4ad-71c3-11ea-b1cf-52543be04c81",
+    "name": "Наше Радио Панки-ХОЙ!",
+    "streamUrl": "http://nashe1.hostingradio.ru/nashepunks.mp3",
+    "faviconUrl": "https://www.nashe.ru/favicons/apple-touch-icon.png",
+    "tags": [
+      "punk",
+      "russian punk"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "id": "2575e5e6-bf7c-11e9-8502-52543be04c81",
+    "name": "Radio Caprice - Classical Baroque",
+    "streamUrl": "http://79.111.14.76:8002/baroque",
+    "faviconUrl": null,
+    "tags": [
+      "baroque",
+      "classical"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 48
+  },
+  {
+    "id": "499d20eb-afdb-4970-8072-dd85fc54e86d",
+    "name": "СВОЕFM | DEEP RADIO",
+    "streamUrl": "http://relay4.radiotoolkit.com/svoefm",
+    "faviconUrl": "https://deep.radio/static/img/deep_radio_logo.png",
+    "tags": [],
+    "countryCode": "RU",
+    "codec": "AAC",
+    "bitrate": 96
+  },
+  {
+    "id": "b1f42e1f-8aee-11e9-ad01-52543be04c81",
+    "name": "Radio Caprice - Erotic",
+    "streamUrl": "http://79.120.39.202:8000/erotic",
+    "faviconUrl": null,
+    "tags": [
+      "chill",
+      "deep",
+      "downtempo",
+      "jazz",
+      "sensual",
+      "smooth"
+    ],
+    "countryCode": "RU",
+    "codec": "AAC+",
+    "bitrate": 320
+  },
+  {
+    "id": "1d13fc30-266e-4724-b288-ca82f63da688",
+    "name": "Известия ТВ (звук)",
+    "streamUrl": "https://hls-igi.cdnvideo.ru/igi/radio1/tracks-a1/mono.m3u8",
+    "faviconUrl": "https://cdn.iz.ru/profiles/portal/themes/purple/images/favicons/apple-icon.png",
+    "tags": [
+      "news",
+      "talk",
+      "новости",
+      "разговорное"
+    ],
+    "countryCode": "RU",
+    "codec": "UNKNOWN",
+    "bitrate": 0
+  },
+  {
+    "id": "644f021d-19b2-4320-9354-94d449df2b73",
+    "name": "ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]",
+    "streamUrl": "http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3",
+    "faviconUrl": null,
+    "tags": [
+      "classical"
+    ],
+    "countryCode": "RU",
+    "codec": "MP3",
+    "bitrate": 0
+  }
+]
