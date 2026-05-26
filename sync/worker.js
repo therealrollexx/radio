@@ -1,9 +1,3 @@
-/**
- * Простой backend для синхронизации профиля Radio.
- *
- * 1. Создайте KV namespace PROFILES в Cloudflare Workers.
- * 2. Задеплойте worker и укажите URL в sync/config.json репозитория.
- */
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
